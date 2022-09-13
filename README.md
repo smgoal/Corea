@@ -48,7 +48,6 @@ button {
 <button type="button" name="button"><a href="view.html">view</a></button>
 <br>
 <button type="button" name="button"><a href="https://www.naver.com" target="_blank">test</a></button>
-
 </center>
-</html>
 </body>
+</html>
