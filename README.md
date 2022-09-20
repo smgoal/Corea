@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -35,15 +36,17 @@ button {
   <center>
 <div id="header">
 <h2>Bienvenidos a Corea</h2>
+<br>
+<button type="button" name="button"><a href="dailytour.html">Daily<br>Tour</a></button>
 <br><br><br><br><br>
 <h4>¿qué quieres ver?</h4>
 <br><br>
 <button type="button" name="button"><a href="food.html">food</a></button>
 <br>
-<button type="button" name="button"><a href="beer.html">beer</a></button>
-<br>
-<button type="button" name="button"><a href="cafe.html">café</a></button>
-<br>
 <button type="button" name="button"><a href="view.html">view</a></button>
 <br>
-<button type="button" name="button"><a href="https://www.naver.com" target="_blank">test</a></button>
+<button type="button" name="button"><a href="Home.html">home</a></button>
+<br>
+</center>
+</body>
+</html>
